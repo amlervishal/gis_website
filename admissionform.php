@@ -208,85 +208,85 @@
                             <thead>
                                 <tr>
                                     <th>admission to class</th>
-                                    <th>Minimum Age (As on 1st April 2021)</th>
-                                    <th>Ideal / Recommended Age</th>
+                                    <th>Minimum Age (As on 1 st April 2024)</th>
+                                    <!-- <th>Ideal / Recommended Age</th> -->
                                 </tr>
                             </thead>
                             <tbody>
                                 <tr>
                                     <td scope="row">Playgroup</td>
-                                    <td>2.5+</td>
                                     <td>3+</td>
+                                    <!-- <td>3+</td> -->
                                 </tr>
                                 <tr>
                                     <td scope="row">KG I</td>
-                                    <td>3.5+</td>
-                                    <td>3+</td>
+                                    <td>4+</td>
+                                    <!-- <td>3+</td> -->
                                 </tr>
                                 <tr>
                                     <td scope="row">KG II</td>
-                                    <td>4.5+</td>
                                     <td>5+</td>
+                                    <!-- <td>5+</td> -->
                                 </tr>
                                 <tr>
                                     <td scope="row">GRADE I	</td>
-                                    <td>5.5+</td>
                                     <td>6+</td>
+                                    <!-- <td>6+</td> -->
                                 </tr>
                                 <tr>
                                     <td scope="row">GRADE II</td>
-                                    <td>6.5+</td>
                                     <td>7+</td>
+                                    <!-- <td>7+</td> -->
                                 </tr>
                                 <tr>
                                     <td scope="row">GRADE III</td>
-                                    <td>7.5+</td>
                                     <td>8+</td>
+                                    <!-- <td>8+</td> -->
                                 </tr>
                                 <tr>
                                     <td scope="row">GRADE IV</td>
-                                    <td>8.5+</td>
                                     <td>9+</td>
+                                    <!-- <td>9+</td> -->
                                 </tr>
                                 <tr>
                                     <td scope="row">GRADE V</td>
-                                    <td>9.5+</td>
                                     <td>10+</td>
+                                    <!-- <td>10+</td> -->
                                 </tr>
                                 <tr>
                                     <td scope="row">GRADE VI</td>
-                                    <td>10.5+</td>
                                     <td>11+</td>
+                                    <!-- <td>11+</td> -->
                                 </tr>
                                 <tr>
                                     <td scope="row">GRADE VII</td>
-                                    <td>11.5+</td>
                                     <td>12+</td>
+                                    <!-- <td>12+</td> -->
                                 </tr>
                                 <tr>
                                     <td scope="row">GRADE VIII</td>
-                                    <td>12.5+</td>
                                     <td>13+</td>
+                                    <!-- <td>13+</td> -->
                                 </tr>
                                 <tr>
                                     <td scope="row">GRADE IX</td>
-                                    <td>13.5+</td>
                                     <td>14+</td>
+                                    <!-- <td>14+</td> -->
                                 </tr>
                                 <tr>
                                     <td scope="row">GRADE X</td>
-                                    <td>14.5+</td>
                                     <td>15+</td>
+                                    <!-- <td>15+</td> -->
                                 </tr>
                                 <tr>
                                     <td scope="row">GRADE XI</td>
-                                    <td>15.5+</td>
                                     <td>16+</td>
+                                    <!-- <td>16+</td> -->
                                 </tr>
                                 <tr>
                                     <td scope="row">GRADE XII</td>
-                                    <td>16.5+</td>
                                     <td>17+</td>
+                                    <!-- <td>17+</td> -->
                                 </tr>
                                 
                             </tbody>
