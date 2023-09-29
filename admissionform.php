@@ -214,17 +214,17 @@
                             </thead>
                             <tbody>
                                 <tr>
-                                    <td scope="row">Playgroup</td>
+                                    <td scope="row">FS 1(Foundation Stages)</td>
                                     <td>3+</td>
                                     <!-- <td>3+</td> -->
                                 </tr>
                                 <tr>
-                                    <td scope="row">KG I</td>
+                                    <td scope="row">FS 2(Foundation Stages)</td>
                                     <td>4+</td>
                                     <!-- <td>3+</td> -->
                                 </tr>
                                 <tr>
-                                    <td scope="row">KG II</td>
+                                    <td scope="row">FS 3(Foundation Stages)</td>
                                     <td>5+</td>
                                     <!-- <td>5+</td> -->
                                 </tr>
