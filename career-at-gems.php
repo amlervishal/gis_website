@@ -49,7 +49,7 @@ if(isset($_POST['submit'])){
                 $toEmail = 'gisgurgaon2020@gmail.com';
 
                 // Sender
-                $from = 'gisgurgaon2020@gmail.com';
+                $from = 'Admision@gemsedu.in';
                 $fromName = 'career@GEMS';
                 
                 // Subject
