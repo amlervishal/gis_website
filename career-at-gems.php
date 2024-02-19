@@ -49,7 +49,7 @@ if(isset($_POST['submit'])){
                 $toEmail = 'gisgurgaon2020@gmail.com';
 
                 // Sender
-                $from = 'Admision@gemsedu.in';
+                $from = 'contactus@gemsedu.in';
                 $fromName = 'career@GEMS';
                 
                 // Subject
@@ -245,7 +245,7 @@ if(isset($_POST['submit'])){
                     <?php } ?>
 
                     <!-- Display contact form -->
-                    <form method="post" action="" enctype="multipart/form-data">
+                    <form method="post" action="career-at-gems.php" enctype="multipart/form-data">
                         <div class="form-group">
                             <input type="text" name="name" class="form-control" value="<?php echo !empty($postData['name'])?$postData['name']:''; ?>" placeholder="Name" required="">
                         </div>
