@@ -46,7 +46,7 @@ if(isset($_POST['submit'])){
             if($uploadStatus == 1){
                 
                 // Recipient
-                $toEmail = 'amrita.vohra@gemseducation.com';
+                $toEmail = 'gisgurgaon2020@gmail.com';
 
                 // Sender
                 $from = 'gisgurgaon2020@gmail.com';
