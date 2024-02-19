@@ -88,7 +88,7 @@
                                     <a class="dropdown-item" href="note-principal.html">Note from Principal</a>
                                     <a class="dropdown-item" href="our-team.html">Our Team</a>
                                     <a class="dropdown-item" href="safety-security.html">Safety & Security</a>
-                                    <a class="dropdown-item" href="career-at-gems.php">Careers at Gems</a>
+                                    <a class="dropdown-item" href="career-at-gems.html">Careers at Gems</a>
                                     <a class="dropdown-item" href="contact-us.php">Contact Us</a>
                                 </div>
                             </div>  
@@ -116,7 +116,7 @@
                                 </div>  
                                 <!--new menu item drop down test-->    
                         </li>
-                        <li class="nav-item"><a class="nav-link js-scroll-trigger" href="career-at-gems.php"><button type="button" class="btn-2 btn-primary">Admissions</button></a></li>
+                        <li class="nav-item"><a class="nav-link js-scroll-trigger" href="career-at-gems.html"><button type="button" class="btn-2 btn-primary">Admissions</button></a></li>
                         
                     </ul>
                 </div>
