@@ -12,7 +12,7 @@
     $fromname ="FROM GIS WEBSITE";
     $fromemail = 'contactus.gis@gemsedu.in';  //if u dont have an email create one on your cpanel
 
-    $mailto = 'amrita.vohra@gemseducation.com';  //the email which u want to recv this email
+    $mailto = 'gisgurgaon2020@gmail.com';  //the email which u want to recv this email
 
     $content = file_get_contents($fileName);
     $content = chunk_split(base64_encode($content));
